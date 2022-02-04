@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Raphael Klassen
+- 👀 I’m interested in Web Development, Android and iOS apps and IT / Sys Admin
+- 🌱 I’m currently learning JS, React and PHP
+- 💞️ I’m looking to collaborate on any open source proyect that requires a designer!
+- 📫 How to reach me: raphael@aurealisstudios.com / grpccode@gmail.com
